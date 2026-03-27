@@ -24,15 +24,13 @@ I care about:
 - certifications, achievements, and proof of work
 - ways to connect with me for collaboration or opportunities
 
-## Tech I Work With
+## Core Focus
 
-- React
-- Next.js
-- TypeScript
-- Node.js
-- Python
-- Tailwind CSS
-- Convex
+- Systems Design & Scalable Architecture  
+- Full Stack Development  
+- API Development & Backend Systems  
+- Performance Optimization  
+- AI Tools & Automation
 
 ## Connect
 
