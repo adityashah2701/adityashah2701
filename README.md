@@ -1,28 +1,18 @@
 # Aditya Shah
 
-Software developer focused on full stack web applications, AI-powered tools, and systems-driven product building.
+🚀 Portfolio: https://adityashah27.dev
 
-This portfolio is a reflection of how I like to build: clean interfaces, structured thinking, and products that feel fast, useful, and intentional. It brings together my work, technical skills, project archive, and the ideas I care about as an engineer.
+Full Stack Developer focused on building scalable systems, AI-powered tools, and high-performance web applications.
+
+---
 
 ## About Me
 
-I am Aditya Shah, a developer based in Navi Mumbai.
+I build modern full stack applications and scalable systems, working across frontend, backend, and system architecture.
 
-I enjoy building modern software across the stack, from polished frontend experiences to backend systems and developer-focused tooling. My work is centered around React, Next.js, TypeScript, and practical full stack architecture, with a strong interest in AI integration and product-oriented engineering.
+My focus is on clean design, performance, and solving real-world problems through simple and efficient engineering.
 
-I care about:
-
-- building interfaces that feel sharp and reliable
-- solving real problems with simple, scalable systems
-- learning in public through projects, experiments, and shipped work
-- combining engineering clarity with thoughtful design
-
-## What You Will Find Here
-
-- selected projects and experiments
-- technical skills and tools I work with
-- certifications, achievements, and proof of work
-- ways to connect with me for collaboration or opportunities
+---
 
 ## Core Focus
 
@@ -30,12 +20,22 @@ I care about:
 - Full Stack Development  
 - API Development & Backend Systems  
 - Performance Optimization  
-- AI Tools & Automation
+- AI Tools & Automation  
 
-## Connect
+---
 
-- Portfolio: [adityashah27.dev](https://adityashah27.dev)
-- GitHub: [github.com/adityashah2701](https://github.com/adityashah2701)
-- LinkedIn: [linkedin.com/in/adityashah2701](https://www.linkedin.com/in/adityashah2701)
-- Email: [adityashah2701.work@gmail.com](mailto:adityashah2701.work@gmail.com)
+## What You Will Find Here
 
+- Selected projects and real-world experiments  
+- Scalable applications and system-focused builds  
+- Technical explorations and problem-solving approaches  
+- Continuous learning through shipped work  
+
+---
+
+## Connect With Me
+
+- 🌐 Portfolio: https://adityashah27.dev  
+- 💼 LinkedIn: https://linkedin.com/in/adityashah2701  
+
+---
