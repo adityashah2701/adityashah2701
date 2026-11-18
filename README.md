@@ -11,7 +11,12 @@ Building full-stack applications, real-time systems, and AI-powered tools with a
 
 ## Tech Stack & Technologies
 
-<table>
+<table width="100%">
+  <colgroup>
+    <col width="33.33%">
+    <col width="33.33%">
+    <col width="33.34%">
+  </colgroup>
 <tr>
 <th colspan="3">01. PROGRAMMING LANGUAGES</th>
 </tr>
