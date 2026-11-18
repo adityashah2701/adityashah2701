@@ -1,41 +1,43 @@
-# Aditya Shah
+# Hi, I'm Aditya Shah
 
-🚀 Portfolio: https://adityashah27.dev
+Full Stack Developer from Navi Mumbai, India. I build web applications and AI-powered tools, and I'm most interested in the systems underneath them: real-time collaboration, deployment pipelines, backend architecture and scalable infrastructure.
 
-Full Stack Developer focused on building scalable systems, AI-powered tools, and high-performance web applications.
+[**adityashah27.dev →**](https://adityashah27.dev)
 
----
+## Tech Stack
 
-## About Me
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,dart" height="40" alt="TypeScript, JavaScript, Python, Dart" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,flutter" height="40" alt="React, Next.js, Flutter" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" height="40" alt="Node.js, Express, FastAPI, Django, Flask" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" height="40" alt="PostgreSQL, MongoDB, Redis, Supabase" /> |
+| **Infrastructure & Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git" height="40" alt="Docker, Kubernetes, AWS, Vercel, Git" /> |
 
-I build modern full stack applications and scalable systems, working across frontend, backend, and system architecture.
+## Selected Work
 
-My focus is on clean design, performance, and solving real-world problems through simple and efficient engineering.
+**[draw-anything](https://github.com/adityashah2701/draw-anything)** · [live demo](https://draw-anything.adityashah27.dev/)
+A collaborative real-time whiteboard where multiple people draw and ideate together, with an in-app AI agent that lays out shapes and connectors on the canvas.
+`Next.js` `TypeScript` `Convex` `Liveblocks`
 
----
+**[Kyro](https://github.com/adityashah2701/kyro)**
+A self-hosted deployment platform in the spirit of Vercel or Netlify. It automates GitHub deployments, Docker builds and SSL provisioning behind a developer dashboard. Separate worker and proxy services handle builds and routing, with artifacts in S3-compatible storage.
+`Node.js` `Express` `BullMQ` `PostgreSQL` `Docker` `RustFS`
 
-## Core Focus
+**[Cooperative Service Marketplace](https://github.com/adityashah2701/internal-hackathon-2026)**
+A digital service marketplace for Labour Cooperative Federations and Societies, built for a Smart India Hackathon problem statement. A Flutter app in a Melos monorepo on Supabase, localised in English, Hindi and Marathi.
+`Flutter` `Dart` `Riverpod` `Supabase`
 
-- Systems Design & Scalable Architecture  
-- Full Stack Development  
-- API Development & Backend Systems  
-- Performance Optimization  
-- AI Tools & Automation  
+## Currently Exploring
 
----
+- **AI agents** that act inside a product through tools, like the canvas agent in draw-anything
+- **Deployment infrastructure**: build workers, job queues and traffic routing
+- **System design** for backends that stay simple as they grow
 
-## What You Will Find Here
+## GitHub Activity
 
-- Selected projects and real-world experiments  
-- Scalable applications and system-focused builds  
-- Technical explorations and problem-solving approaches  
-- Continuous learning through shipped work  
+<img src="https://ghchart.rshah.org/2f6feb/adityashah2701" alt="Aditya's GitHub contribution graph" width="100%" />
 
----
+## Connect
 
-## Connect With Me
-
-- 🌐 Portfolio: https://adityashah27.dev  
-- 💼 LinkedIn: https://linkedin.com/in/adityashah2701  
-
----
+[Portfolio](https://adityashah27.dev) · [LinkedIn](https://www.linkedin.com/in/adityashah2701) · [LeetCode](https://leetcode.com/adityashah27) · [GitHub](https://github.com/adityashah2701)
