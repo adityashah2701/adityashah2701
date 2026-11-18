@@ -1,65 +1,85 @@
-Redesign my GitHub profile README.md again. The current version is too long, has oversized technology icons, and feels more like a resume than a GitHub profile.
 
-I want a compact, modern, developer-focused README that visitors can scan within 10–15 seconds.
+<h1 align="center">Aditya Shah</h1>
 
-### 1. Introduction
-- Keep my name, developer identity, and a short 1–2 line introduction.
-- Mention Full Stack Development, Backend Engineering, and Systems.
-- Include my portfolio link.
-- No lengthy About Me section.
+<p align="center">
+  Full Stack Developer · Backend Engineering · Systems Design
+</p>
 
-### 2. Tech Stack
-This should be the main visual section.
+<p align="center">
+  <a href="https://adityashah27.dev">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/adityashah2701">LinkedIn</a> ·
+  <a href="https://leetcode.com/adityashah27">LeetCode</a>
+</p>
 
-Showcase a good variety of technologies I genuinely use, organized into compact categories:
+I build full-stack applications, real-time systems, and AI-powered tools, with a focus on backend architecture, scalable infrastructure, and practical engineering.
 
-- Languages: TypeScript, JavaScript, Python, Go, Java, C, C++, SQL.
-- Frontend: React, Next.js, Tailwind CSS, Flutter.
-- Backend: Node.js, Express, FastAPI, Django, WebSockets, REST, gRPC.
-- Databases & Messaging: PostgreSQL, MongoDB, Redis, Kafka, Firebase, Supabase.
-- AI & ML: PyTorch, TensorFlow, scikit-learn, Hugging Face, LangChain, NumPy, Pandas.
-- Infrastructure & Tools: Docker, Kubernetes, AWS, GCP, NGINX, GitHub Actions, Git, Vercel, Convex.
+---
 
-Only include technologies supported by my actual experience and repositories.
+## Tech Stack
 
-### Icon styling
-- Reduce skillicons.dev icon height to 28px or 30px.
-- Use compact inline icon rows.
-- Avoid oversized icons and excessive vertical spacing.
-- Keep categories visually separated but close together.
-- Don't use huge tables or unnecessarily large badges.
-- Use consistent icon sizing and alignment.
+**Languages**
 
-### 3. Selected Projects
-Keep only 3 strong projects:
-- Draw Anything
-- Kyro
-- Meeting Bot
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,java,c,cpp&perline=7" height="28" alt="Languages" />
+</p>
 
-Each should have:
-- Project name linked to its repository.
-- A single concise sentence describing its purpose.
-- A small inline list of its main technologies.
+**Frontend & Mobile**
 
-Avoid long paragraphs.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&perline=7" height="28" alt="Frontend and mobile" />
+</p>
 
-### 4. Connect
-Keep a compact footer with:
-Portfolio · GitHub · LinkedIn · LeetCode
+**Backend & APIs**
 
-### Remove Completely
-- Currently Exploring
-- GitHub Activity
-- Contribution heatmaps
-- Separate Experience section
-- Repeated About Me / Core Focus sections
-- Generic motivational quotes
-- Unnecessary achievements and statistics
-- Excessive badges and decorative elements
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask&perline=7" height="28" alt="Backend technologies" />
+</p>
 
-### Final Design Goal
-The README should be approximately 40–55 lines, visually balanced, and should not require excessive scrolling.
+REST APIs · WebSockets · gRPC · Event-driven systems
 
-Prioritize compactness, readability, and technical variety.
+**Databases & Messaging**
 
-Do not invent technologies, projects, or experience. Preserve factual accuracy and keep the Markdown clean and maintainable.
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,firebase,supabase&perline=7" height="28" alt="Databases and messaging" />
+</p>
+
+**AI & Machine Learning**
+
+Python · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · RAG · LLM Pipelines
+
+**Infrastructure & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,githubactions,git,vercel&perline=8" height="28" alt="Infrastructure and tools" />
+</p>
+
+---
+
+## Selected Projects
+
+**[Draw Anything](https://github.com/adityashah2701/draw-anything)** · [Live Demo](https://draw-anything.adityashah27.dev/)
+
+Collaborative real-time whiteboard with multiplayer editing and an AI agent for generating diagrams directly on the canvas.
+
+`Next.js` `TypeScript` `Convex` `Liveblocks`
+
+**[Kyro](https://github.com/adityashah2701/kyro)**
+
+Self-hosted deployment platform automating GitHub builds, Docker deployments, reverse proxy routing, and artifact storage.
+
+`Next.js` `Node.js` `PostgreSQL` `Redis` `BullMQ` `Docker`
+
+**Meeting Bot**
+
+Real-time AI meeting assistant that transcribes conversations, extracts decisions, and generates actionable meeting summaries.
+
+`Node.js` `TypeScript` `Whisper` `LLMs` `Convex`
+
+---
+
+<p align="center">
+  <a href="https://adityashah27.dev">Portfolio</a> ·
+  <a href="https://github.com/adityashah2701">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/adityashah2701">LinkedIn</a> ·
+  <a href="https://leetcode.com/adityashah27">LeetCode</a>
+</p>
