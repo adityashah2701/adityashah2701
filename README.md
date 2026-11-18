@@ -125,7 +125,7 @@ Collaborative real-time whiteboard with multiplayer editing and an AI agent for 
 
 Self-hosted deployment platform with automated builds, isolated workers, dynamic reverse proxy routing, and artifact storage.
 
-**Meeting Bot**
+**[Meeting Bot](https://github.com/adityashah2701/meeting-bot)**
 
 AI meeting intelligence engine for live transcription, decision extraction, and automated action items.
 
